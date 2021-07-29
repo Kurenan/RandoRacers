@@ -48,6 +48,7 @@
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.randomizeSpeedChk = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.racerRed)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.racerBlue)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.racerYellow)).BeginInit();
@@ -257,12 +258,24 @@
             this.pictureBox9.TabIndex = 19;
             this.pictureBox9.TabStop = false;
             // 
+            // randomizeSpeedChk
+            // 
+            this.randomizeSpeedChk.AutoSize = true;
+            this.randomizeSpeedChk.Location = new System.Drawing.Point(237, 269);
+            this.randomizeSpeedChk.Name = "randomizeSpeedChk";
+            this.randomizeSpeedChk.Size = new System.Drawing.Size(111, 17);
+            this.randomizeSpeedChk.TabIndex = 20;
+            this.randomizeSpeedChk.Text = "Randomize speed";
+            this.randomizeSpeedChk.UseVisualStyleBackColor = true;
+            this.randomizeSpeedChk.CheckedChanged += new System.EventHandler(this.randomizeSpeedChk_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(242)))), ((int)(((byte)(217)))));
             this.ClientSize = new System.Drawing.Size(732, 298);
+            this.Controls.Add(this.randomizeSpeedChk);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.racerBrown);
@@ -333,6 +346,7 @@
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.CheckBox randomizeSpeedChk;
     }
 }
 

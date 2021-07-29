@@ -7,3 +7,7 @@ c:\users\david hoobyar\documents\visual studio 2015\Projects\RandoRacers\RandoRa
 c:\users\david hoobyar\documents\visual studio 2015\Projects\RandoRacers\RandoRacers\bin\Debug\RandoRacers.pdb
 c:\users\david hoobyar\documents\visual studio 2015\Projects\RandoRacers\RandoRacers\obj\Debug\RandoRacers.exe
 c:\users\david hoobyar\documents\visual studio 2015\Projects\RandoRacers\RandoRacers\obj\Debug\RandoRacers.pdb
+C:\Users\David Hoobyar\Documents\Visual Studio 2015\Projects\RandoRacers\RandoRacers\bin\Debug\RandoRacers.exe.manifest
+C:\Users\David Hoobyar\Documents\Visual Studio 2015\Projects\RandoRacers\RandoRacers\bin\Debug\RandoRacers.application
+C:\Users\David Hoobyar\Documents\Visual Studio 2015\Projects\RandoRacers\RandoRacers\obj\Debug\RandoRacers.exe.manifest
+C:\Users\David Hoobyar\Documents\Visual Studio 2015\Projects\RandoRacers\RandoRacers\obj\Debug\RandoRacers.application
